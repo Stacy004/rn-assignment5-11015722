@@ -1,4 +1,3 @@
-// App.js
 import React, { useContext } from 'react';
 import { Image } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
@@ -35,7 +34,7 @@ const AppNavigator = () => {
           tabBarStyle: {
             backgroundColor: theme.colors.card,
           },
-          tabBarActiveTintColor: theme.colors.text,
+          tabBarActiveTintColor: theme.colors.primary,
           tabBarInactiveTintColor: theme.colors.border,
         })}
       >

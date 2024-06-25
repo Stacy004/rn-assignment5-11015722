@@ -15,7 +15,7 @@ export const lightTheme = {
     dark: true,
     colors: {
       primary: '#000000',
-      background: '#191970',
+      background: '#02050f',
       card: '#191970',
       text: '#ffffff',
       border: '#333333',
